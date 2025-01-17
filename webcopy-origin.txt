@@ -1,0 +1,132 @@
+Uri: https://appsumo2ppnuxt.b-cdn.net/img/as-badge-featured.2433f63.png
+File Name: C:\Downloaded Web Sites\nocodebackend.com\img\as-badge-featured.2433f63.png
+Content Type: image/png
+
+Uri: https://assets.dorik.io/shared/aos.css
+File Name: C:\Downloaded Web Sites\nocodebackend.com\shared\aos.css
+Content Type: text/css
+
+Uri: https://assets.dorik.io/shared/aos.js
+File Name: C:\Downloaded Web Sites\nocodebackend.com\shared\aos.js
+Content Type: text/javascript
+
+Uri: https://cdn.cmsfly.com/64105a606115ac047190cee0/frame-9-iOM7K7.png
+File Name: C:\Downloaded Web Sites\nocodebackend.com\64105a606115ac047190cee0\frame-9-iOM7K7.png
+Content Type: image/png
+
+Uri: https://cdn.cmsfly.com/64105a606115ac047190cee0/fy-WluHUP.svg
+File Name: C:\Downloaded Web Sites\nocodebackend.com\64105a606115ac047190cee0\fy-WluHUP.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cmsfly.com/64105a606115ac047190cee0/mask-group-RU1_Hx.svg
+File Name: C:\Downloaded Web Sites\nocodebackend.com\64105a606115ac047190cee0\mask-group-RU1_Hx.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cmsfly.com/64105a606115ac047190cee0/tghj-NS22b3.svg
+File Name: C:\Downloaded Web Sites\nocodebackend.com\64105a606115ac047190cee0\tghj-NS22b3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cmsfly.com/64105a606115ac047190cee0/yt-P3GUjs.svg
+File Name: C:\Downloaded Web Sites\nocodebackend.com\64105a606115ac047190cee0\yt-P3GUjs.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.dorik.com/60d808c119777c001197db2e/625baf342a48e900116416d2/images/BG_rxocrfy4.png
+File Name: C:\Downloaded Web Sites\nocodebackend.com\60d808c119777c001197db2e\625baf342a48e900116416d2\images\BG_rxocrfy4.png
+Content Type: image/png
+
+Uri: https://cdn.dorik.com/60d808c119777c001197db2e/625baf342a48e900116416d2/images/Group-1657_6g4eynfb.png
+File Name: C:\Downloaded Web Sites\nocodebackend.com\60d808c119777c001197db2e\625baf342a48e900116416d2\images\Group-1657_6g4eynfb.png
+Content Type: image/png
+
+Uri: https://cdn.dorik.com/66a9eadd25863b0011a21f38/images/Default_Image_is_a_screenshot_of_a_Swagger_UI_interface_for_a_2-nFcqS.jpg
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66a9eadd25863b0011a21f38\images\Default_Image_is_a_screenshot_of_a_Swagger_UI_interface_for_a_2-nFcqS.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.dorik.com/66d2da62d891cf0011ff9181/css/index.css?v=1734877245415
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66d2da62d891cf0011ff9181\css\index.css
+Content Type: text/css
+
+Uri: https://cdn.dorik.com/66d2da62d891cf0011ff9181/css/privacy-policy.css?v=1734877245419
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66d2da62d891cf0011ff9181\css\privacy-policy.css
+Content Type: text/css
+
+Uri: https://cdn.dorik.com/66d2da62d891cf0011ff9181/css/terms-and-conditions.css?v=1734877245422
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66d2da62d891cf0011ff9181\css\terms-and-conditions.css
+Content Type: text/css
+
+Uri: https://cdn.dorik.com/66d2da62d891cf0011ff9181/images/RedandBlackMinimalMobileCodeLogo5-aJ_Xs.png
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66d2da62d891cf0011ff9181\images\RedandBlackMinimalMobileCodeLogo5-aJ_Xs.png
+Content Type: image/png
+
+Uri: https://cdn.dorik.com/66d2da62d891cf0011ff9181/images/snapapi300x80px10-8LMmT.svg
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66d2da62d891cf0011ff9181\images\snapapi300x80px10-8LMmT.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.dorik.com/66d2da62d891cf0011ff9181/images/snapapi300x80px500x100px1-XbtsT.svg
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66d2da62d891cf0011ff9181\images\snapapi300x80px500x100px1-XbtsT.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.dorik.com/66d2da62d891cf0011ff9181/images/Untitleddesign19-gh34j.svg
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66d2da62d891cf0011ff9181\images\Untitleddesign19-gh34j.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.dorik.com/66d2da62d891cf0011ff9181/images/Untitleddesign78-aDAJI.png
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66d2da62d891cf0011ff9181\images\Untitleddesign78-aDAJI.png
+Content Type: image/png
+
+Uri: https://cdn.dorik.com/66d2da62d891cf0011ff9181/images/Untitleddesign83-o6cNx.png
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66d2da62d891cf0011ff9181\images\Untitleddesign83-o6cNx.png
+Content Type: image/png
+
+Uri: https://cdn.dorik.com/66d2da62d891cf0011ff9181/images/Untitleddesign84-KdUqy.png
+File Name: C:\Downloaded Web Sites\nocodebackend.com\66d2da62d891cf0011ff9181\images\Untitleddesign84-KdUqy.png
+Content Type: image/png
+
+Uri: https://cdn.dorik.com/common/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\nocodebackend.com\common\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.cmsfly.com/css?family=Inter:400,400,700,600&display=swap
+File Name: C:\Downloaded Web Sites\nocodebackend.com\css
+Content Type: text/css
+
+Uri: https://fonts.cmsfly.com/file/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\nocodebackend.com\file\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.cmsfly.com/file/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\nocodebackend.com\file\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.cmsfly.com/file/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2
+File Name: C:\Downloaded Web Sites\nocodebackend.com\file\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.cmsfly.com/file/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\nocodebackend.com\file\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.cmsfly.com/file/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\nocodebackend.com\file\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.cmsfly.com/file/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\nocodebackend.com\file\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.cmsfly.com/file/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\nocodebackend.com\file\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://nocodebackend.com/
+File Name: C:\Downloaded Web Sites\nocodebackend.com\index.htm
+Content Type: text/html
+
+Uri: https://nocodebackend.com/privacy-policy
+File Name: C:\Downloaded Web Sites\nocodebackend.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://nocodebackend.com/terms-and-conditions
+File Name: C:\Downloaded Web Sites\nocodebackend.com\terms-and-conditions.html
+Content Type: text/html
+
